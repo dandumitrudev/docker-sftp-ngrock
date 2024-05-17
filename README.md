@@ -1,2 +1,4 @@
 # docker-sftp-ngrock
-Create a SFTP server based on docker image; expose it over the internet with ngrock; connect to it 
+Create an SFTP server based on the docker image
+Expose it over the internet with ngrock
+Connect to it with FileZile or sftp command line 
